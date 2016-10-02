@@ -1,0 +1,4 @@
+[package]
+name = "rosalind"
+version = "0.1.0"
+authors = ["spence dalley <spencedalley@users.noreply.github.com>"]
